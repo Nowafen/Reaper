@@ -165,7 +165,4 @@ sudo rm /etc/systemd/system/reaper_123456789.service
 
 
 
-
-
-##### Contact 
-[***](https://t.me/Tellmejs)
+end.
