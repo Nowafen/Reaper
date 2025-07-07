@@ -10,21 +10,21 @@ is a high-performance periodic vulnerability scanner powered by Nuclei with Tele
 
 ##### Features
 
-Periodic Scanning: Runs Nuclei scans on a single URL or a list of subdomains at customizable intervals (10-60 minutes).
+###### Periodic Scanning: Runs Nuclei scans on a single URL or a list of subdomains at customizable intervals (10-60 minutes).
 
-Telegram Notifications: Sends scan results and hourly reports to a specified Telegram chat for real-time updates.
+###### Telegram Notifications: Sends scan results and hourly reports to a specified Telegram chat for real-time updates.
 
-Local Logging: Saves scan results to daily log directories (./logs/YYYY-MM-DD/) when Telegram connectivity is lost.
+###### Local Logging: Saves scan results to daily log directories (./logs/YYYY-MM-DD/) when Telegram connectivity is lost.
 
-Connection Recovery: Detects past connection issues, notifies via Telegram, and cleans up stale services to prevent conflicts.
+###### Connection Recovery: Detects past connection issues, notifies via Telegram, and cleans up stale services to prevent conflicts.
 
-Automatic Updates: Checks for new versions in the repository and updates the binary in /usr/bin/reaper automatically.
+###### Automatic Updates: Checks for new versions in the repository and updates the binary in /usr/bin/reaper automatically.
 
-Lock Mechanism: Prevents concurrent executions using machine-specific lock files to ensure stability.
+###### Lock Mechanism: Prevents concurrent executions using machine-specific lock files to ensure stability.
 
-Flexible Input: Supports scanning a single URL (-u/--url) or a list of subdomains (-l/--list) with Nuclei templates.
+###### Flexible Input: Supports scanning a single URL (-u/--url) or a list of subdomains (-l/--list) with Nuclei templates.
 
-User-Friendly Interface: Provides a colorful, bold help menu (-h/--help) and version display (--version).
+###### User-Friendly Interface: Provides a colorful, bold help menu (-h/--help) and version display (--version).
 
 ---
 
