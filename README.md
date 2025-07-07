@@ -40,7 +40,7 @@ cd Reaper
 
 ###### Copy the binary to /usr/bin:
 ```bash
-sudo cp reaper /usr/bin/reaper
+sudo cp reaper /usr/bin/
 sudo chmod +x /usr/bin/reaper
 ```
 
