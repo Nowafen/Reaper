@@ -1,5 +1,7 @@
 #### Reaper 
-is a high-performance periodic vulnerability scanner powered by Nuclei with Telegram notifications. Reaper automates periodic scans of subdomains or single URLs, sending results to Telegram and logging outputs locally when connectivity is lost. Built for reliability, it ensures seamless operation with automatic updates and robust error handling.
+is a high-performance periodic vulnerability scanner powered by Nuclei with Telegram notifications. 
+Reaper automates periodic scans of subdomains or single URLs, sending results to Telegram and logging outputs locally when connectivity is lost.
+Built for reliability, it ensures seamless operation with automatic updates and robust error handling.
 
 ---
 ## Summray
