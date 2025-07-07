@@ -37,8 +37,9 @@ Built for reliability, it ensures seamless operation with automatic updates and 
 git clone https://github.com/Nowafen/Reaper.git
 cd Reaper
 ```
+
+###### Copy the binary to /usr/bin:
 ```bash
-Copy the binary to /usr/bin:
 sudo cp reaper /usr/bin/reaper
 sudo chmod +x /usr/bin/reaper
 ```
