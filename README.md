@@ -31,8 +31,9 @@ Built for reliability, it ensures seamless operation with automatic updates and 
 ---
 
 ##### Installation
+
+###### Clone the repository:
 ```bash
-Clone the repository:
 git clone https://github.com/Nowafen/Reaper.git
 cd Reaper
 ```
@@ -42,7 +43,7 @@ sudo cp reaper /usr/bin/reaper
 sudo chmod +x /usr/bin/reaper
 ```
 
-Create and configure the config.yaml file:
+###### Create and configure the config.yaml file:
 ```bash
 reaper -h
 ```
@@ -69,7 +70,7 @@ reaper -h
 ---
 
 ##### Usage
-Reaper runs as a background service using systemd, performing periodic scans and sending results to Telegram. Below are the available flags and usage examples.
+###### Reaper runs as a background service using systemd, performing periodic scans and sending results to Telegram. Below are the available flags and usage examples.
 
 <details>
  <summary>Expand full help flags
