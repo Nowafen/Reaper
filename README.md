@@ -76,7 +76,7 @@ reaper -h
  <summary>Expand full help flags
   </summary>
   
-  ```bash
+  ```
 reaper -h
 
 Reaper - A Periodic Nuclei Scanner with Telegram Notifications
